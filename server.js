@@ -9,11 +9,22 @@ var mongoose    = require('mongoose');
 var session     = require('express-session');
 var User        = require('./models/user.js');
 var pythonShell = require('python-shell');
+var fs = require('fs');
+var csv = require('fast-csv');
 
-pythonShell.run('script.py', function (err) {
-    if (err) throw err;
-    console.log('finished');
-});
+// csv
+//     .fromPath("out.csv")
+//     .on("data", function(data){
+//         console.log(data);
+//     })
+//     .on("end", function(){
+//         console.log("done");
+//     });
+
+// pythonShell.run('script.py', function (err) {
+//     if (err) throw err;
+//     console.log('finished');
+// });
 //Mongodb Config
 
 //--------------------------------------------------------------------------------------------------------------------------
@@ -75,15 +86,6 @@ app.use('/',indexRoutes);
 app.use('/',authenticRoutes);
 
 //*************
-
-
-
-
-
-
-
-
-
 
 
 //*********************************
