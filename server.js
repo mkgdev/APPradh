@@ -8,10 +8,12 @@ var authenticRoutes = require('./routes/authentication.js');
 var mongoose    = require('mongoose');
 var session     = require('express-session');
 var User        = require('./models/user.js');
-const { spawn } = require('child_process')
+var pythonShell = require('python-shell');
 
-
-
+pythonShell.run('script.py', function (err) {
+    if (err) throw err;
+    console.log('finished');
+});
 //Mongodb Config
 
 //--------------------------------------------------------------------------------------------------------------------------
