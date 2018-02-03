@@ -1,11 +1,11 @@
-States/UTs,District,Year,Murder,Attempt to commit Murder,Rapes,Kidnapping,Robbery,Theft,Assault on Women with intent to outrage her Modesty,Sexual Harassment,Extortion,,Total
-Delhi UT,Central,2014,30,44,182,591,288,4124,212,54,18,,5543
-Delhi UT,East,2014,61,93,460,1281,789,9437,446,171,39,,12777
-Delhi UT,North,2014,31,28,97,543,353,4309,180,42,15,,5598
-Delhi UT,North-East,2014,84,110,474,1975,1286,8185,492,171,29,,12806
-Delhi UT,North-West,2014,48,81,330,1324,734,7341,404,109,8,,10379
-Delhi UT,South,2014,40,58,560,1253,496,8670,595,150,26,,11848
-Delhi UT,South-East,2014,67,83,532,1309,394,7557,469,85,19,,10515
-Delhi UT,South-West,2014,66,88,468,1338,403,4632,494,86,25,,7600
-Delhi UT,West,2014,55,77,502,1610,580,9404,484,137,16,,12865
-Delhi UT,Total,2014,482,662,3605,11224,5323,63659,3776,1005,195,,89931
+States/UTs,District,Year,Total Murders,Murder,Attempt to commit Murder,Rapes,Kidnapping,Robbery,Assault on Women with intent to outrage her Modesty,Sexual Harassment,Extortion,,Total
+Delhi UT,Central,2014,74,30,44,182,591,288,212,54,18,,5543
+Delhi UT,East,2014,154,61,93,460,1281,789,446,171,39,,12777
+Delhi UT,North,2014,59,31,28,97,543,353,180,42,15,,5598
+Delhi UT,North-East,2014,194,84,110,474,1975,1286,492,171,29,,12806
+Delhi UT,North-West,2014,129,48,81,330,1324,734,404,109,8,,10379
+Delhi UT,South,2014,98,40,58,560,1253,496,595,150,26,,11848
+Delhi UT,South-East,2014,150,67,83,532,1309,394,469,85,19,,10515
+Delhi UT,South-West,2014,154,66,88,468,1338,403,494,86,25,,7600
+Delhi UT,West,2014,132,55,77,502,1610,580,484,137,16,,12865
+Delhi UT,Total,2014,1144,482,662,3605,11224,5323,3776,1005,195,,89931
